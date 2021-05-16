@@ -7,7 +7,8 @@ This repo includes assignments (source code and reports) for Operating Systems L
  * Nikos Christopoulos ([christopni](https://github.com/christopni))
  * Panagiotis Giannoulis ([pangiann](https://github.com/pangiann))
 # Lab1 - Riddle 
-
+A riddle game containing several challenges testing the proper use of system calls, Process-Handling and Inter-Process Communication (IPC), Process Scheduling, Network Programming and Systems Programming fundamentals.
+Here you can find a write up for this game: [riddle-write-up](https://gist.github.com/pangiann/e413da84d5fe1d115f1568893dfee00f)
 
 # Lab2 - Lunix Device Driver
 
